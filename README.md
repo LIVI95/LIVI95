@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone 👋
 
 <!--
 **LIVI95/LIVI95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Backend skills:
+1. Languages:
+   - python
+2. Frameworks:
+   - fastapi
+3. Databases:
+   - postgres
+4. Containerization:
+   - docker
+   - docker-compose
