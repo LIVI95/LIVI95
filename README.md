@@ -34,3 +34,8 @@ Here are some ideas to get you started:
 <img width="50" height="50" alt="17724212781695852918049737703174" src="https://github.com/user-attachments/assets/834e0519-acba-4abb-bd4c-917de5b47791" />
 
 ### My pet-projects
+1. [Роса погода](https://www.rustore.ru/catalog/app/com.lipovoy.Rosa)
+2. [Работа Донбасс](https://www.rustore.ru/catalog/app/com.lipovoy.jobslpr)
+3. [Заметки](https://www.rustore.ru/catalog/app/com.lipovoy.notes_app)
+4. [Пятнашки Классика](https://www.rustore.ru/catalog/app/com.lipovoy.fifteenth)
+5. [2048 классика](https://www.rustore.ru/catalog/app/com.lipovoy.twenty48)
