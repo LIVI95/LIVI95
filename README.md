@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 4. Containerization:
 <img width="50" height="50" alt="17724212781695852918049737703174" src="https://github.com/user-attachments/assets/834e0519-acba-4abb-bd4c-917de5b47791" />
 
+5. Testing
+<img width="50" height="50" alt="17726138176684503716484492668174" src="https://github.com/user-attachments/assets/1f38f060-a640-4627-a45a-2b5c573919bc" />
+
 ### My pet-projects
 1. [Роса погода](https://www.rustore.ru/catalog/app/com.lipovoy.Rosa)
 2. [Работа Донбасс](https://www.rustore.ru/catalog/app/com.lipovoy.jobslpr)
