@@ -17,12 +17,18 @@ Here are some ideas to get you started:
 ### Backend skills:
 1. Languages:
 <img width="50" height="50" alt="17724202835313047426599151031856" src="https://github.com/user-attachments/assets/f9343d78-0c34-4b36-95b1-516d9fccf09d" />
+<img width="50" height="50" alt="17746110459246998737609361643108" src="https://github.com/user-attachments/assets/198f95bc-507b-49c7-a9e2-bdee0770b8b7" />
+
 
 2. Frameworks:
 <img width="50" height="50" alt="17724209682255206023090502509055" src="https://github.com/user-attachments/assets/97e321ca-b467-40a6-86ac-19b8f08f4e45" />
+<img width="50" height="50" alt="17746111556787680021258454555130" src="https://github.com/user-attachments/assets/4983098b-fc76-4347-9085-bb0618c7955f" />
+
   
 3. Databases:
 <img width="50" height="50" alt="17724210866498766964627527066922" src="https://github.com/user-attachments/assets/6a3a94e0-fcd6-42ac-b518-502120e32d6d" />
+<img width="50" height="50" alt="17746112888854015959175822938808" src="https://github.com/user-attachments/assets/e3b6f281-7133-439c-a85c-c8b22a495673" />
+
 
 4. Containerization:
 <img width="50" height="50" alt="17724212781695852918049737703174" src="https://github.com/user-attachments/assets/834e0519-acba-4abb-bd4c-917de5b47791" />
