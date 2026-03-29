@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 1. Languages:
 <img width="50" height="50" alt="17724202835313047426599151031856" src="https://github.com/user-attachments/assets/f9343d78-0c34-4b36-95b1-516d9fccf09d" />
 <img width="50" height="50" alt="17746110459246998737609361643108" src="https://github.com/user-attachments/assets/198f95bc-507b-49c7-a9e2-bdee0770b8b7" />
-
+<img width="50" height="50" alt="17747959041155117537814119984488" src="https://github.com/user-attachments/assets/49a65fbd-c71a-4ec8-8be5-02d9a97a26fc" />
 
 2. Frameworks:
 <img width="50" height="50" alt="17724209682255206023090502509055" src="https://github.com/user-attachments/assets/97e321ca-b467-40a6-86ac-19b8f08f4e45" />
